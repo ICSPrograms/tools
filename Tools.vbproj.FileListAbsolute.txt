@@ -1,0 +1,12 @@
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\bin\Debug\Tools.exe.config
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\bin\Debug\Tools.exe
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\bin\Debug\Tools.pdb
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\bin\Debug\Tools.xml
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\obj\Debug\Tools.Form1.resources
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\obj\Debug\Tools.Resources.resources
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\obj\Debug\Tools.vbproj.GenerateResource.Cache
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\obj\Debug\Tools.exe
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\obj\Debug\Tools.xml
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\obj\Debug\Tools.pdb
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\obj\Debug\Tools.About.resources
+C:\Users\ICS\Desktop\other shit\Pointless But Not Pointless\Tools\Tools\obj\Debug\Tools.CheckForUpdates.resources
